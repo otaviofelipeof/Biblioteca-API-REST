@@ -1,0 +1,14 @@
+com\biblioteca\dto\LivroResponseDTO.class
+com\biblioteca\repository\LivroRepository.class
+com\biblioteca\controller\AutorController.class
+com\biblioteca\controller\GlobalExceptionHandler.class
+com\biblioteca\entity\Livro.class
+com\biblioteca\BibliotecaApplication.class
+com\biblioteca\repository\AutorRepository.class
+com\biblioteca\service\AutorService.class
+com\biblioteca\dto\AutorResponseDTO.class
+com\biblioteca\service\LivroService.class
+com\biblioteca\dto\AutorRequestDTO.class
+com\biblioteca\controller\LivroController.class
+com\biblioteca\entity\Autor.class
+com\biblioteca\dto\LivroRequestDTO.class
