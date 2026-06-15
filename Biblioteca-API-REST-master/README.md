@@ -236,10 +236,6 @@ Acesse o banco H2 em: `http://localhost:8080/h2-console`
 
 ---
 
-## 👤 Autor do Projeto
-
-Desenvolvido como atividade prática da disciplina de Desenvolvimento Back-end.
-
 ## Integrantes
 
 - Otávio Felipe
@@ -247,4 +243,4 @@ Desenvolvido como atividade prática da disciplina de Desenvolvimento Back-end.
 - Lucas Menezes
 - Victor Laranjeira
 - Júnior Lummertz
-- Willyane
+- Willyane Correia
